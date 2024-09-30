@@ -1,7 +1,7 @@
 name: wakelock_plugin
-description: "A new Flutter project."
+description: "A simple plugin for keeping the screen constantly lit"
 version: 0.0.1
-homepage:
+homepage: https://github.com/CCHenry/WakelockPlugin
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
